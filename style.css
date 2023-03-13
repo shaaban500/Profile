@@ -316,6 +316,11 @@ h6{
     }
 }
 
+@media(max-width: 400px) {
+    .profile-card .flex-row p{
+        font-size: 10px;
+    }
+}
 
 /***************************************************/
 
